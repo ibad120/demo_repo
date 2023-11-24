@@ -1,6 +1,6 @@
 # demo_repo
-This is my first Git Hub repository
+<u>This is my first Git Hub repository</u>
 <br>
-Author: Muhammad Ibad
+<b>Author</b>: Muhammad Ibad
 <br>
-Contact: muhammadibad@work.in
+<b>Contact: </b>muhammadibad@work.in
